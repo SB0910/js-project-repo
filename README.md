@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 <img src="cover.png" width="200" align="right" />
-
+Hi!
 # JavaScript Everywhere API
 
 This repository contains code examples for the API chapters of [_JavaScript Everywhere_](https://www.jseverywhere.io/) by Adam D. Scott, published by O'Reilly Media
@@ -49,3 +50,12 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+=======
+# js-project-repo
+just a small repo for some drafts
+
+
+
+*** THE WHOLE INFORMATION GIVEN HERE IS NOT MINE AND BELONGS TO THE AUTHOR OF THE BOOK
+i'm using this code only for educational purposes
+>>>>>>> 31853272037bfccc064a84fe4c46dbf850501cbe
